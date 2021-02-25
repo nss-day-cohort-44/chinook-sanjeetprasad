@@ -3,8 +3,8 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "chinook",
-            "database": "\\\\wsl$\\Ubuntu\\home\\sanjeetprasad\\workspace\\cohort-44\\backend\\book-3\\chinook\\Chinook_Sqlite.sqlite"
+            "name": "Chinook",
+            "database": "Chinook_Sqlite.sqlite"
         }
     ]
 }
