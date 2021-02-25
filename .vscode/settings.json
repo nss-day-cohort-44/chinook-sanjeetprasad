@@ -4,7 +4,7 @@
             "previewLimit": 50,
             "driver": "SQLite",
             "name": "chinook",
-            "database": "Chinook_Sqlite.sqlitw"
+            "database": "\\\\wsl$\\Ubuntu\\home\\sanjeetprasad\\workspace\\cohort-44\\backend\\book-3\\chinook\\Chinook_Sqlite.sqlite"
         }
     ]
 }
