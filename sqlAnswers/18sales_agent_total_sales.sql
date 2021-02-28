@@ -16,3 +16,4 @@ Join Customer c
 Join Invoice i
     on (c.CustomerId = i.CustomerId)
 Group by e.FirstName
+
